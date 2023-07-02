@@ -1,5 +1,6 @@
 # 💫 About Me:
 Economics student at University of São Paulo - FEA USP
+
 FEA.dev member
 
 ## 🌐 Socials:
