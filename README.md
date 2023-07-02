@@ -1,6 +1,6 @@
 # 💫 About Me:
 Economics student at University of São Paulo - FEA USP
-
+FEA.dev member
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andre_m_t_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-molina-teixeira) 
